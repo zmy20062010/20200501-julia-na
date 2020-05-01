@@ -3,37 +3,37 @@
 ## The list of algorithms to be added
 
 
-### Roots of Nonlinear Equations
+### 1. Roots of Nonlinear Equations
 
 
-### Nonlinear Systems and Numerical Optimization
+### 2. Nonlinear Systems and Numerical Optimization
 
 
-### Linear System of Equations
+### 3. Linear System of Equations
 
 
-### Polynomial Interpolation
+### 4. Polynomial Interpolation
 
 
-### Approximation and Orthogonal Polynomials   
+### 5. Approximation and Orthogonal Polynomials   
 
 
-### Numerical Differentiation
+### 6. Numerical Differentiation
 
 
-### Numerical Integration
+### 7. Numerical Integration
 
 
-### Ordinary Differential Equations -- Initial Value Problems
+### 8. Ordinary Differential Equations -- Initial Value Problems
 
 
-### Ordinary Differential Equations -- Boundary Value Problems
+### 9. Ordinary Differential Equations -- Boundary Value Problems
 
 
-### Partial Differential Equations - Parabolic Equations
+### 10. Partial Differential Equations - Parabolic Equations
 
 
-### Partial Differential Equations - Hyperbolic Equations
+### 11. Partial Differential Equations - Hyperbolic Equations
 
 
-### Partial Differential Equations - Elliptical Equations
+### 12. Partial Differential Equations - Elliptical Equations
