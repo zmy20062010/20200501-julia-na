@@ -30,10 +30,10 @@
 ### 9. Ordinary Differential Equations -- Boundary Value Problems
 
 
-### 10. Partial Differential Equations - Parabolic Equations
+### 10. Partial Differential Equations -- Parabolic Equations
 
 
-### 11. Partial Differential Equations - Hyperbolic Equations
+### 11. Partial Differential Equations -- Hyperbolic Equations
 
 
-### 12. Partial Differential Equations - Elliptical Equations
+### 12. Partial Differential Equations -- Elliptical Equations
